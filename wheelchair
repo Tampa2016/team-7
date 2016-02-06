@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   width="663"
+   height="716"
+   version="1.0"
+   sodipodi:docbase="C:\Documents and Settings\Clement\Skrivebord"
+   sodipodi:docname="Wheelchair.svg">
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     inkscape:window-height="750"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.3723174"
+     inkscape:cx="235.69808"
+     inkscape:cy="284.0845"
+     inkscape:window-x="-4"
+     inkscape:window-y="26"
+     inkscape:current-layer="svg2" />
+  <g
+     id="g4607"
+     transform="translate(11.76905,3.614672)">
+    <path
+       id="path2768"
+       d="M 131.875,326.46875 C 123.03938,326.35229 114.60171,330.13666 108.8125,336.8125 C 99.129667,347.66828 90.712479,359.67784 83.78125,372.625 C 69.918784,398.51932 62.031249,428.20415 62.03125,459.5 C 62.031248,560.98162 144.98714,643.93752 246.46875,643.9375 C 297.20954,643.93748 343.53062,623.25061 376.875,589.90625 C 393.54716,573.23407 407.02861,553.36654 416.375,531.28125 C 420.83419,521.35977 419.57417,509.80187 413.08191,501.07429 C 406.58964,492.34671 395.88213,487.81661 385.09746,489.23472 C 374.31278,490.65282 365.14036,497.79699 361.125,507.90625 C 354.83465,522.77018 345.71846,536.18778 334.4375,547.46875 C 311.8756,570.03065 280.97785,583.93749 246.46875,583.9375 C 177.45058,583.93752 122.03125,528.51819 122.03125,459.5 C 122.03125,438.22093 127.31082,418.39425 136.65625,400.9375 C 141.32896,392.20912 147.04203,384.09537 153.59375,376.75 C 161.58962,368.03281 163.71729,355.43115 159.02672,344.57197 C 154.33615,333.71279 143.70291,326.62315 131.875,326.46875 L 131.875,326.46875 z "
+       style="opacity:1;fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccccccccscccccccsscccsc"
+       id="path1879"
+       d="M 194.93814,87.623505 C 160.83819,87.623505 133.1569,115.3048 133.15689,149.40475 C 133.14275,152.55524 133.4263,155.69591 133.87564,158.811 C 133.87921,158.83143 133.87203,158.85308 133.87564,158.8735 L 171.12564,388.52975 C 173.4759,402.98481 185.91851,413.63104 200.56314,413.71725 L 395.81314,414.936 L 463.28189,571.52975 C 469.54626,586.03575 485.98751,593.19719 500.87564,587.90475 L 580.12564,559.71725 C 595.73631,554.15989 603.90175,536.98418 598.34439,521.3735 C 592.78703,505.76282 575.61131,497.62863 560.00064,503.186 L 507.25064,521.96725 L 443.18814,373.186 C 438.47143,362.24477 427.72754,355.13124 415.81314,355.061 L 226.31314,353.8735 L 223.37564,335.84225 L 357.40689,335.84225 C 368.22595,335.99526 378.29645,330.31218 383.75064,320.96725 C 389.20483,311.62233 389.20483,300.06217 383.75064,290.71725 C 378.29645,281.37232 368.22597,275.68924 357.40689,275.84225 L 213.65689,275.84225 L 203.06314,210.6235 C 233.32562,206.63976 256.68815,180.74918 256.68814,149.40475 C 256.68814,115.3048 229.0381,87.623504 194.93814,87.623505 z "
+       style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+  </g>
+</svg>
